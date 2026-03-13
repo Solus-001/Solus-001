@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Solus-001</h1>
-- 🔭 I’m currently working on **Homelabbing**
-- 🤝 I’m looking for help with **getting started with cybersecurity**
-- 🌱 I’m currently learning **tryhackme free courses (got no finances)**
-- 💬 Ask me about **basic helpdesk problems**
-- 📫 How to reach me **solus001one@gmail.com**
-- ⚡ Fun fact **I like messing with tech**
+- 🔭 I’m currently working on Homelabbing
+- 🤝 I’m looking for help with getting started with cybersecurity
+- 🌱 I’m currently learning tryhackme free courses (got no finances)
+- 💬 Ask me about basic helpdesk problems
+- 📫 How to reach me solus001one@gmail.com
+- ⚡ Fun fact I like messing with tech
 
 <div> <a href="https://twitter.com/solusone001" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/solus-001" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
