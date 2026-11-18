@@ -63,7 +63,7 @@ This GitHub profile is where I intend to share my learning, experiments, and pro
 
 - **Email:** [solus001one@gmail.com](mailto:solus001one@gmail.com)
 - **GitHub:** [@Solus-001](https://github.com/Solus-001)
-- **X / Twitter:** [@solusone001](https://twitter.com/solusone001)
+- **X / Twitter:** [@Solus_D_Monkey](https://twitter.com/Solus_D_Monkey)
 
 ---
 
